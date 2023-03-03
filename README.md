@@ -69,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # -r-n-Listeleme
+
+<h1>Ürün listeleme</h1>
+
+React ta ürün lisleme projesi yaptım.Fake store api den faydalandım.Bu konuda kendimi geliştirmeye devam ediyorum.
+
+
+![](ScreenUrun.gif)
+
+
